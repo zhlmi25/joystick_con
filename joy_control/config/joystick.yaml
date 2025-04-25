@@ -20,6 +20,6 @@ teleop_node:
     scale_angular_turbo:
       yaw: 2.0
 
-    enable_button_turbo: 6
+    enable_turbo_button: 6
     enable_button: 7
 
